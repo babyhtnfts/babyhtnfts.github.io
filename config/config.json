@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xC22e0b96092CD89CcC5dd02f9323723162D780dC",
+  "SCAN_LINK": "https://hecoinfo.com/address/0xc22e0b96092cd89ccc5dd02f9323723162d780dc",
+  "NETWORK": {
+    "NAME": "HECO",
+    "SYMBOL": "HT",
+    "ID": 128
+  },
+  "NFT_NAME": "BABYHT NFTS",
+  "SYMBOL": "BABYHT",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 3000000000000000000,
+  "DISPLAY_COST": 3,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "tofu",
+  "MARKETPLACE_LINK": "https://tofunft.com/",
+  "SHOW_BACKGROUND": true
+}
